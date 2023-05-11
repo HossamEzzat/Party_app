@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1074876377811",
+    "firebase_url": "https://gennobot-default-rtdb.firebaseio.com",
+    "project_id": "gennobot",
+    "storage_bucket": "gennobot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074876377811:android:0c4e0a6bac3755ad04c226",
+        "android_client_info": {
+          "package_name": "com.example.wedding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074876377811-t22qr731emvluk2ht0rlhe2pll66mjec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDctxNdv65-frehhE17njy38NnYqgCF0xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074876377811-4duhab9ptbrfks1ddb1m9rkusgd1f88q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
